@@ -1,2 +1,2 @@
-# Google_Hashcode_2020
+# Google Hashcode
 My solutions to the problems of Google Hashcode 
